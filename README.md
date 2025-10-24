@@ -21,14 +21,6 @@
 🌐 **Conference/Symposium Management System**
 > A full-stack web app where Admins, Organizers, and Attendees can manage conferences, view sessions, and handle registrations — built with React + Node.js + MongoDB.
 
-
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NPavithra20&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NPavithra20&theme=radical" alt="GitHub Streak" />
-</p>
-
 ### 🌐 Connect With Me
 <p align="left">
 <a href="https://www.linkedin.com/in/pavithra-n-8a3b10258" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
