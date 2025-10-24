@@ -1,4 +1,13 @@
-## Hi there 👋
+# Hi there 👋 I'm Pavithra  
+
+🎓 CSE Student | 💻 Full Stack Developer | 🍰 Baker  
+
+- 🔭 I’m currently working on a Conference Management System  
+- 🌱 Learning React, Node.js, and MongoDB  
+- 💬 Ask me about Web Development or Baking  
+- 📫 How to reach me: pavithra@example.com  
+- ⚡ Fun fact: I love mixing code and cupcakes 🧁  
+
 
 <!--
 **NPavithra20/NPavithra20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
